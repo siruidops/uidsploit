@@ -17,8 +17,8 @@
    _/_/_/ _/ _/_/_/   _/_/_/ _/  _/ _/  _/_/_/ _/     _/
                             _/_/_/                   _/
                            _/
-                          _/ \033[0;32m version 3.0 \033[33m
-                         _/
+                          _/ version 3
+                         _/
 
 developer: sir uidops
 e-mail   : sir.u1d0p5@gmail.com
