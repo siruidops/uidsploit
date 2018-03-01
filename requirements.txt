@@ -1,0 +1,16 @@
+builtwith
+dnspython
+google
+goslate
+html5lib
+keyboard
+mechanize
+netifaces
+pynput
+pyperclip
+python-whois
+pyttsx
+readline
+requests
+validate-email
+wafw00f
