@@ -14,3 +14,4 @@ readline
 requests
 validate-email
 wafw00f
+pydns
