@@ -49,6 +49,7 @@ echo
 clear
 cp run.sh /usr/bin/uidsploit
 mkdir -p /opt/uidsploit
+mkdir -p /opt/uidsploit/core
 cp -R modules/ /opt/uidsploit/
 cp uidsploit.py /opt/uidsploit/
 cp version.txt /opt/uidsploit/
