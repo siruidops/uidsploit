@@ -42,19 +42,7 @@ python install.py
 uidsploit
 ```
 
-## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![uidsploit](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
-```bash
-Download and Install Python 2.7
-Reboot The System
-Download uidsploit ZiP File
-Extract uidsploit into Desktop
-Open CMD and type the following commands:
-cd Desktop/uidsploit-master/
-pip install -r requirements.txt
-python uidsploit.py
-```
-
-## Updateing Linux
+## Update In Linux
 
 ```bash
 cd <Directory of uidsploit>
