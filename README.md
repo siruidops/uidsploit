@@ -6,7 +6,7 @@
 <p>This Script Powered By Python Version 2.7</p>
 <p>For Run 'DDoS Router' Please intall 'aircrack-ng' in your system</p>
 
-[Follow My Friend In Telegram Channel](https://t.me/softhacking)
+[Follow My Friend In Telegram Channel](https://t.me/TheHackings)
 
 ```bash
 
