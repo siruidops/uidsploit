@@ -5,7 +5,7 @@
 <p>This Script Powered By Python Version 2.7</p>
 <p>For Run 'DDoS Router' Please intall 'aircrack-ng' in your system</p>
 
-[Follow My Friend In Telegram Channel](https://t.me/TheHackings)
+
 
 ```bash
 
@@ -34,7 +34,7 @@ uidsploit >>>
 
 ```bash
 sudo apt-get update
-sudo apt-get install git python python-pip -y
+sudo apt-get install git python python-pip 
 git clone https://github.com/siruidops/uidsploit.git
 cd uidsploit/
 python install.py
