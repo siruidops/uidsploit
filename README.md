@@ -1,8 +1,8 @@
 # Uidsploit
 <p style="color:#110082;"> Developer: Sir uidops </p>
-<p>This application is a framework for penetration testig</p>
-<p>This Script Tested On Linux (Kali Linux, Debian, ...) </p>
-<p>This Script Powered By Python Version 2.7</p>
+<p>uidsploit is a framework for penetration testig</p>
+<p>Tested On Linux (Kali Linux, Ubuntu, ...) </p>
+<p>Powered By Python Version 2.7</p>
 <p>For Run 'DDoS Router' Please intall 'aircrack-ng' in your system</p>
 
 
