@@ -1,7 +1,7 @@
 # Uidsploit
 <p style="color:#110082;"> Developer: Sir uidops </p>
 <p>uidsploit is a framework for penetration testing</p>
-<p>Tested On Linux (Kali Linux, Ubuntu, ...) </p>
+<p>Tested On GNU/Linux (Ubuntu,Arch linux ...) </p>
 <p>Powered By Python Version 2.7</p>
 <p>For Run 'DDoS Router' Please intall 'aircrack-ng' in your system</p>
 
