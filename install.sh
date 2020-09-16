@@ -40,11 +40,7 @@ echo
 read -p " your choice [1-2] 0 for exit: " pil;
 case $pil in
 1)
-clear && apt-get update
-clear && apt-get install git python python-dev python-pip -y
-clear && git clone https://github.com/siruidops/uidsploit.git
-clear && cd uidsploit/
-clear && pip install -r requirements.txt
+sudo pip2 install -r requirements.txt
 echo
 clear
 cp run.sh /usr/bin/uidsploit
