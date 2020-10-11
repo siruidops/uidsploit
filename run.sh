@@ -1,18 +1,15 @@
 #!/bin/bash
 
-# This Code Powered By Bash
-
-#
 # -------------------------------
 #
 #       uidsploit(uidops) v 3.0
 #
-#  Developer: Sir.uidops
-#  E-mail: sir.u1d0p5@gmail.com
+#  Developer: uidops
+#  E-mail: uidopsu@gmail.com
 #  Github: https://github.com/siruidops/
 #
 # -------------------------------
-#
+
 
 #
 # If you are find a bug please 
