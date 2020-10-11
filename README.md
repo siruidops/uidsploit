@@ -19,7 +19,7 @@
                          _/
 
 developer: uidops
-e-mail   : uidopssu@gmail.com
+e-mail   : uidopsu@gmail.com
 github   : https://github.com/siruidops/uidsploit
 
  show   < show modules
