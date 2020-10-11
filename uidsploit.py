@@ -8,7 +8,7 @@
 #       uidsploit - version 3.0
 #
 #  Developer: uidops
-#  E-mail: uidopssu@gmail.com
+#  E-mail: uidopsu@gmail.com
 #  Github: https://github.com/siruidops/
 #
 # -------------------------------
@@ -858,8 +858,8 @@ def main():
 	"""+end
 	print hello
 	print
-	print brown+"developer: "+green+'sir uidops'+end
-	print brown+"e-mail   : "+green+'sir.u1d0p5@gmail.com'+end
+	print brown+"developer: "+green+'uidops'+end
+	print brown+"e-mail   : "+green+'uidopsu@gmail.com'+end
 	print brown+"github   : "+green+'https://github.com/siruidops/uidsploit/'+end
 	print
 	print green+" show   "+end+'< show modules'
